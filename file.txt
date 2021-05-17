@@ -1,0 +1,2 @@
+first line added in file.txt
+second line is also added.
