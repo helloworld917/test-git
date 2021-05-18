@@ -1,3 +1,4 @@
 first line added in file.txt
 second line is also added.
 third line added.
+added after staging 
